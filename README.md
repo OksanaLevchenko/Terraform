@@ -1,4 +1,4 @@
-# Terraform Project for [Project Name]
+# Terraform Project 
 
 ## Description
 
